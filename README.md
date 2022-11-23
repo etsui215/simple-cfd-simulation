@@ -26,11 +26,11 @@ Here are the graphed results:
 As shown in the graph, an angle of attack of 10 degrees seems to result in the highest lift coefficient.  
 
 From a visual perspective, here are two animations (one at a 0 degree angle of attack, the other at a 10 degree angle of attack) that shows the pressure across the airfoil as time passes.  
-*0 degree angle of attack: *  
+**0 degree angle of attack: **  
 
 https://user-images.githubusercontent.com/107323771/203663617-531f5d1f-8c24-45d1-96ec-87d8164fd73d.mp4
 
-*10 degree angle of attack: *  
+**10 degree angle of attack: **  
 
 https://user-images.githubusercontent.com/107323771/203663869-3829e0a7-e34d-4627-8f73-73de41ed9808.mp4  
 
