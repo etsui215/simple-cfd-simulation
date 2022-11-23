@@ -28,7 +28,7 @@ As shown in the graph, an angle of attack of 10 degrees seems to result in the h
 From a visual perspective, here are two animations (one at a 0 degree angle of attack, the other at a 10 degree angle of attack) that shows the pressure across the airfoil as time passes.  
 **0 degree angle of attack: **  
 
-https://user-images.githubusercontent.com/107323771/203663617-531f5d1f-8c24-45d1-96ec-87d8164fd73d.mp4
+https://user-images.githubusercontent.com/107323771/203663617-531f5d1f-8c24-45d1-96ec-87d8164fd73d.mp4  
 
 **10 degree angle of attack: **  
 
