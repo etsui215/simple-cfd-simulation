@@ -20,6 +20,9 @@ The below table displays the angles of attack from 0 to 18 degrees along with th
 | 16  | 0.0224054  |
 | 18  | 0.022218  |
 
+Here are the graphed results:
+![image](https://user-images.githubusercontent.com/107323771/203658252-a6828f71-7a58-4047-9ebc-b0e2815b2987.png)
+
 (Used an altitude of 500 ft ~ 152.4 m MSL, 22 m/s in the x-direction)
 
 
