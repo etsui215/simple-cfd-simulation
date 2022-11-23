@@ -21,7 +21,9 @@ The below table displays the angles of attack from 0 to 18 degrees along with th
 | 18  | 0.022218  |
 
 Here are the graphed results:  
-![image](https://user-images.githubusercontent.com/107323771/203658252-a6828f71-7a58-4047-9ebc-b0e2815b2987.png)
+![image](https://user-images.githubusercontent.com/107323771/203658252-a6828f71-7a58-4047-9ebc-b0e2815b2987.png)  
+
+As shown in the graph, an angle of attack of 10 degrees seems to result in the highest lift coefficient.
 
 (Used an altitude of 500 ft ~ 152.4 m MSL, 22 m/s in the x-direction)
 
