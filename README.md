@@ -42,6 +42,6 @@ To further enforce the findings, here is an animation of the velocity in the x d
 
 https://user-images.githubusercontent.com/107323771/203666147-60c187bb-c002-4ec0-8ae6-42145a2098f7.mp4
 
-From the start of the animation, it is clear that the velocity flows faster over than under the airfoil. By Bernoulli's equation, a low velocity means a high pressur,e while a high velocity means a low pressure. This once again shows that lift is created due to the pressure difference.
+From the start of the animation, it is clear that the velocity flows faster over than under the airfoil. By Bernoulli's equation, a low velocity means a high pressure, while a high velocity means a low pressure. The same conclusion is once again reached-lift is created due to the pressure difference.
 
 (Used an altitude of 500 ft ~ 152.4 m MSL, 22 m/s in the x-direction)
