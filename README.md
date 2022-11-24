@@ -36,6 +36,12 @@ https://user-images.githubusercontent.com/107323771/203663617-531f5d1f-8c24-45d1
 
 https://user-images.githubusercontent.com/107323771/203663869-3829e0a7-e34d-4627-8f73-73de41ed9808.mp4  
 
-With a 0 angle of attack, as time goes on, the pressure values around the airfoil end up stabilizing, so to speak, where 
+With a 0 angle of attack, as time goes on, the pressure values around the airfoil end up stabilizing, and the pressure above and below the airfoil are at the lowest. In comparison, with a 10 degree angle of attack, over time, the pressure distribution is such that there is more pressure below than above the airfoil, and this pressure difference across the airfoil is what causes lift. 
+
+To further enforce the findings, here is an animation of the velocity in the x direction at an angle of attack of 10 degrees:  
+
+https://user-images.githubusercontent.com/107323771/203666147-60c187bb-c002-4ec0-8ae6-42145a2098f7.mp4
+
+
 
 (Used an altitude of 500 ft ~ 152.4 m MSL, 22 m/s in the x-direction)
